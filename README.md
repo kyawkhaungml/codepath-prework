@@ -5,9 +5,9 @@ Codepath Prework Project
 
 Submitted by: Kyaw Khaung Myo Lwin
 
-**Name of your app** is an app that... [TODO] 
+**IOS101-Prework** is an app that... [displays the applicant's name, university, and current or aspirational job with the feature of changing the background color randomly with a click] 
 
-Time spent: **X** hours spent in total
+Time spent: 0.33 hours spent in total
 
 ## Required Features
 
@@ -29,17 +29,34 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
     </a>
   </div>
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
 
 ## App Brainstorming (Step 4)
+
+My Favorite 3 Applications:
+
+1. Youtube
+- Playlists
+- Short run-through of a video when the cursor is placed
+- The little blue dots on the subscribed channels when their new content are uploaded
+2. Linkedin
+- 'My Network' section
+- Linkedin Shorts
+- 'Catch Up' section
+3. Netflix
+- 'News and Hot' section
+- 'Last call to watch' where the movies that will not be on Netflix soon are listed
+- Downloads
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+I was a bit confused with dragging the buttom on my storyboard to the ViewController class, but I was able to comprehend well the rest of the steps and concepts. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Kyaw Khaung Myo Lwin]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
