@@ -18,7 +18,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+This is my full walkthrough recorded in Loom
 
 <div>
     <a href="https://www.loom.com/share/f4904afd68f149fe8a941eab13736038">
@@ -29,6 +29,9 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
     </a>
   </div>
 
+This is my final app walkthrough in GIF with Kap. I couldn't find a way to get a URL from Kap, so I created one from Giphy.
+
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnUyNm16ZXlwN3M2ZHEwZWg4ZHBrbTlnNzd3bG5qYXd3djZ1YmlmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uXT1DqTo7XuzQYLdoM/giphy.gif
 
 
 ## App Brainstorming (Step 4)
